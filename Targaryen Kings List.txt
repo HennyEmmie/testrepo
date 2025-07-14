@@ -1,0 +1,53 @@
+Aegon I Targaryen
+Spouse:		Visenya Targaryen (wife / sister)
+		Rhaenys Targaryen (wife / sister)
+Children:		Aenys I Targaryen (son with Rhaenys Targaryen / nephew)
+		Maegor I Targaryen (son with Visenya Targaryen / nephew)
+Reign		1 AC - 37 AC
+Predecssor	None			POSITION ESTABLISHED
+Successor	Aenys I Targaryen		SON / NEPHEW
+
+Aenys I Targaryen
+Spouse:		Alyssa Velaryon (wife / relative)
+Children:		Rhaena Targaryen (daughter / 1st cousin once removed)
+		Aegon Targaryen (son / 1st cousin once removed)
+		Viserys Targaryen (son / 1st cousin once removed)
+		Jaehaerys Targaryen (son / 1st cousin once removed)
+		Alysanne Targaryen (daughter / 1st cousin once removed)
+		Vaella Targaryen (daughter / 1st cousin once removed)
+Reign		37 AC - 42 AC
+Predecssor	Aegon I Targaryen		FATHER / UNCLE
+Successor	Maegor I Targaryen		HALF-BROTHER / 1ST COUSIN
+
+Maegor I Targaryen
+Spouse:		Ceryse Hightower (wife)
+		Alys Harroway (wife)
+		Tyanna of the Tower (wife)
+		Elinor Costayne (wife)
+		Rhaena Targaryen (wife / niece / 1st cousin once removed)
+		Jeyne Westerling (wife)
+Children:		Stillborn child with Alys Harroway
+		Stillborn son with Elinor Costayne
+		Stillborn child with Jeyne Westerling
+Reign		42 AC - 48 AC
+Predecssor	Aenys I Targaryen		HALF-BROTHER / 1ST COUSIN
+Successor	Jaehaerys I Targaryen	HALF-NEPHEW / 1ST COUSIN ONCE REMOVED
+
+Jaehaerys I
+Spouse:		Alysanne Targaryen (wife / sister)
+Children:		Aegon Targaryen (son / nephew)
+		Daenerys Targaryen (daughter / niece)
+		Aemon Targaryen (son / nephew)
+		Baelon Targaryen (son / nephew)
+		Alyssa Targaryen (daughter / niece)
+		Maegelle Targaryen (daughter / niece)
+		Vaegon Targaryen (son / nephew)
+		Daella Targaryen (daughter / niece)
+		Saera Targaryen (daughter / niece)
+		Viserra Targaryen (daughter / niece)
+		Gaemon Targaryen (son / nephew)
+		Valerion Targaryen (son / nephew)
+		Gael Targaryen (daughter / niece)
+Reign		48 AC - 103 AC
+Predecssor	Maegor I Targaryen		HALF-UNCLE / 1ST COUSIN ONCE REMOVED
+Successor	Viserys I Targaryen		GRANDSON / GRAND NEPHEW
